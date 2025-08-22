@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LED/static/css/main.6dfc9341.css",
+    "main.js": "/LED/static/js/main.e374d1ce.js",
+    "index.html": "/LED/index.html",
+    "main.6dfc9341.css.map": "/LED/static/css/main.6dfc9341.css.map",
+    "main.e374d1ce.js.map": "/LED/static/js/main.e374d1ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dfc9341.css",
+    "static/js/main.e374d1ce.js"
+  ]
+}
